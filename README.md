@@ -1,2 +1,2 @@
 # KnightGraph
-Build a modular chess engine where the search algorithm is classical (minimax + alpha-beta), but the evaluation function is graph-based.
+Build a chess engine where Minimax + Alpha-Beta search uses a Graph Neural Network to evaluate chess positions
