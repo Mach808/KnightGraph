@@ -1,0 +1,6 @@
+python-chess      # Chess logic and board representation
+torch             # Deep learning
+torch-geometric   # GNNs
+networkx          # Graph construction and analysis
+matplotlib        # Basic visualization
+plotly            # Interactive plots (later)
