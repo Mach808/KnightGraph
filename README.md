@@ -1,2 +1,2 @@
-# GraphChess.com
+# KnightGraph
 gnn based chess
