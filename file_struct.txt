@@ -1,0 +1,25 @@
+KnightGraph/
+│
+├── graph/
+│   ├── __init__.py
+│   ├── node_features.py
+│   ├── edge_builder.py
+│   ├── graph_builder.py
+│   └── graph_schema.py 
+│
+├── dataset/
+│   ├── generate_positions.py
+│   ├── stockfish_labeler.py
+│   ├── build_dataset.py
+│   └── graphs/
+│
+├── models/
+│   ├── gine.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── experiments/
+│
+├── utils/
+│
+└── README.md
